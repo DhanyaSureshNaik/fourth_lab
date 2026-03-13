@@ -1,0 +1,4 @@
+tfx==1.13.0
+scikit-learn
+pandas
+numpy
