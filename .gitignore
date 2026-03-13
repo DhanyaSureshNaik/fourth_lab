@@ -1,0 +1,16 @@
+data/
+pipeline_taxi/
+serving_model/
+
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+*.whl
+
+.ipynb_checkpoints/
+
+.DS_Store
